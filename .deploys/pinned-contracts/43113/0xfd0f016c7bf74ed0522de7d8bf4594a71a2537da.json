@@ -1,0 +1,21 @@
+{
+  "name": "hola_mundo",
+  "address": "0xfd0f016c7bf74ed0522de7d8bf4594a71a2537da",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "saludo",
+      "outputs": [
+        {
+          "internalType": "string",
+          "name": "",
+          "type": "string"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "filePath": "Solidity_Basic-1725926284650/Hola_mundo.sol",
+  "pinnedAt": 1725929199750
+}
