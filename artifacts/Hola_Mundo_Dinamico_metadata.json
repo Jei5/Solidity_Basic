@@ -1,0 +1,85 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "NuevoSaludo",
+						"type": "string"
+					}
+				],
+				"name": "GuardarSaludo",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "LeerSaludo",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "Saludo_E",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Hola_Mundo_Dinamico.sol": "Hola_Mundo_Dinamico"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Hola_Mundo_Dinamico.sol": {
+			"keccak256": "0x956f107253172aeaf86a6bca35a8f652427d202b9edc0a9a82fbd2c0344b6934",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f5d3c4c9b534b5626e444e4a58daf2eb5cdede49202a5272bd287737d22899e9",
+				"dweb:/ipfs/QmaM862qF5g61QDwG1WPSu9iKhKMWhUGDfh9nYWHKXubcL"
+			]
+		}
+	},
+	"version": 1
+}
