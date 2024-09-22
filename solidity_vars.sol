@@ -26,5 +26,4 @@ contract Solidiy_Vars {
         gas_limit = block.gaslimit;
 
     }
-
 }
